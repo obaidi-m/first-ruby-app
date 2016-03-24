@@ -21,6 +21,8 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # devise gem for users
 gem 'devise', '~> 3.5', '>= 3.5.6'
+# paperclip gem to upload images and files 
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
