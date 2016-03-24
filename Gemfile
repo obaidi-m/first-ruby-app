@@ -19,6 +19,8 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 # bootstrap gem 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+# devise gem for users
+gem 'devise', '~> 3.5', '>= 3.5.6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
