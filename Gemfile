@@ -23,6 +23,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 # paperclip gem to upload images and files 
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
+# masonry rails gem 
+gem 'masonry-rails', '~> 0.2.4'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
