@@ -25,6 +25,8 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 # masonry rails gem 
 gem 'masonry-rails', '~> 0.2.4'
+# acts as votable to add a vote feature
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
